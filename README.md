@@ -1,10 +1,10 @@
-## Hello! I'm Matheus and it's a pleasure to have you here! 🤗
+# Hello! I'm Matheus and it's a pleasure to have you here! 🤗
 
-##### I'm a Computer Scientist at Unesp and an avid technology enthusiast, open to learn about everything that comes my way
+### I'm a Computer Scientist at Unesp and an avid technology enthusiast, open to learn about everything that comes my way
 
 
 
-### My stats 📊
+## My stats 📊
 
 <div> 
     <img height="180em" width ="450em" src="https://github-readme-stats.vercel.app/api?username=matheusvirissimo&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
@@ -14,7 +14,7 @@
 
 
 
-### Tecnologies I've used or I'm studying 💻
+## Tecnologies I've used or I'm studying 💻
 <div style="display: inline_block"> 
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,7 +27,7 @@
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### Social media 📱
+## Social media 📱
 
 <div> 
     <a href="https://www.linkedin.com/in/matheus-de-almeida-virissimo/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
