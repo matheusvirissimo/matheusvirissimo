@@ -1,6 +1,6 @@
 # Hello! I'm Matheus and it's a pleasure to have you here! 🤗
 
-### I'm a Computer Scientist at Unesp and an avid technology enthusiast, open to learn about everything that comes my way
+### I'm a Computer Scientist at Unesp and an avid technology enthusiast, open to learn about everything that comes my way, but focusing nowadays in Data Science.
 
 
 
