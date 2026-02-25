@@ -7,15 +7,8 @@
 ## My stats 📊
 
 <div>
-  <img 
-    src="https://github-readme-stats-iota-roan-idqrm7emcq.vercel.app/api?username=matheusvirissimo&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats-iota-roan-idqrm7emcq.vercel.app/api/top-langs/?username=matheusvirissimo&layout=compact&theme=tokyonight" 
-    height="180"
-  />
+  <img src="https://github-readme-stats-iota-roan-idqrm7emcq.vercel.app/api?username=matheusvirissimo&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-iota-roan-idqrm7emcq.vercel.app/api/top-langs/?username=matheusvirissimo&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 
