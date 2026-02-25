@@ -6,10 +6,16 @@
 
 ## My stats 📊
 
-<div> 
-    <img height="180em" width ="450em" src="https://github-readme-stats.vercel.app/api?username=matheusvirissimo&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
-    <img height="180em" width ="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvirissimo&layout=compact&theme=dark&hide_border=true" />
-    
+<div>
+  <img 
+    src="https://github-readme-stats-iota-roan-idqrm7emcq.vercel.app/api?username=matheusvirissimo&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats-iota-roan-idqrm7emcq.vercel.app/api/top-langs/?username=matheusvirissimo&layout=compact&theme=tokyonight" 
+    height="180"
+  />
 </div>
 
 
